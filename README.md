@@ -1,4 +1,4 @@
-# cf-demo-node
+# cf-demo-simple-node
 
 A simple Node.js app for Cloud Foundry, which can be used to demonstrate:
 
