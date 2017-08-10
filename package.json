@@ -1,15 +1,15 @@
 {
-  "name": "cf-demo-node",
+  "name": "cf-demo-simple-node",
   "version": "1.0.0",
-  "author": "Stu Radnidge <sturadnidge@pivotal.io>",
+  "author": "Jeff Chau <jeff.chau@jds.net.au>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sturadnidge/cf-demo-node/issues"
+    "url": "https://http://bb.prod.cdp.aws.hosting.transport.nsw.gov.au/projects/CDP/repos/cf-demo-simple-node/browse"
   },
-  "homepage": "https://github.com/sturadnidge/cf-demo-node",
+  "homepage": "http://bb.prod.cdp.aws.hosting.transport.nsw.gov.au/projects/CDP/repos/cf-demo-simple-node/browse",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sturadnidge/cf-demo-node.git"
+    "url": "http://bb.prod.cdp.aws.hosting.transport.nsw.gov.au/projects/CDP/repos/cf-demo-simple-node/browse"
   },
   "scripts": {
     "start": "node app.js"

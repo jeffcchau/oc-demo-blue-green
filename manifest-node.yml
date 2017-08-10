@@ -1,12 +1,9 @@
 ---
 applications:
 - name: cf-demo-node-v1
-  memory: 128M
+  memory: 64M
   instances: 1
   random-route: true
   command: node app.js
   env:
     NODE_ENV: dev
-    REDIS_PROVIDER: none
-    REDIS_INSTANCE_NAME: none
-    COLOUR: 227fa3
