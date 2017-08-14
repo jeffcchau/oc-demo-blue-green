@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cf-demo-node
+- name: cf-demo-simple-node
   memory: 128M
   instances: 1
   random-route: true
