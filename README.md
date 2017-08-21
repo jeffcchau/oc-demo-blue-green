@@ -1,4 +1,4 @@
-# cf-demo-simple-node
+# oc-demo-blue-green
 
 A simple Node.js app for OpenShift, which can be used to demonstrate:
 
